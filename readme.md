@@ -28,6 +28,8 @@
 
 ## 搭建方法
 打开[template.js](./template.js)，根据提示修改变量：
+
+## ENGLISH TEMPLATE
 English version [eng-template.js](./eng-template.js)
 
 ```javascript
