@@ -28,6 +28,8 @@
 
 ## 搭建方法
 打开[template.js](./template.js)，根据提示修改变量：
+English version [eng-template.js](./eng-template.js)
+
 ```javascript
 const CONFIG = {
     PASSKEY: "this is your passkey", // 管理员网页登录密钥，请自行修改，尽量复杂
